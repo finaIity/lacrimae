@@ -16,11 +16,11 @@ I update the plugin by a single criteria : Do I get goosebumps when I hear the l
 
 # Installing guide
 
-1. Clone this repo in in oh-my-zsh's plugins directory:
+1. Clone this repo in in `oh-my-zsh's` plugins directory:
 ```
 git clone https://github.com/caIamity/lacrimae.git ~/.oh-my-zsh/custom/plugins/lacrimae
 ```
-2. Add the plugin to ~/.zshrc:
+2. Add the plugin to `~/.zshrc`:
 ```
 plugins=([plugins...] hacker-quotes)
 ```
