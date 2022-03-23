@@ -3,7 +3,7 @@ Small [oh-my-zsh](https://ohmyz.sh/) plugin that prints a line from a collection
 
 Each line is written in the original language of the chant, along with the name/source of the chant.
 
-[Preview](https://github.com/caIamity/lacrimae/blob/main/preview/lacrimae_preview.png)
+![](https://github.com/caIamity/lacrimae/blob/main/preview/lacrimae_preview.png)
 
 Chants are classified by
  - Templar chants
