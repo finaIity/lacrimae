@@ -27,3 +27,5 @@ git clone https://github.com/caIamity/lacrimae.git ~/.oh-my-zsh/custom/plugins/l
 plugins=([plugins...] hacker-quotes)
 ```
 3. Restart zsh and enjoy !
+
+PS : make sure you pull this plugin here and there, as I am still updating it regularly.
