@@ -4,8 +4,14 @@ if [[ -o interactive ]] && [[ -o login || -n "${LACRIMAE}" ]]; then
         "Ad te clamamus, exsules, filii Hevae.\n - Salve Regina"
 
         #Byzantine chants
+        "Pantas Imas, ekatharanta\n - Defte Lai"
+        "Chaire Nymphi Anympheute \nTōn asōmatōn Serapheim \ntōn thronōn ypertera - Agni Parthene"
 
         #Gregorian chants
+        "Dominus Deus Sabaoth \nPleni sunt caeli et terra majestatis gloriae tuae \n - Te Deum"
+        "In die Illa tremenda \nCaeli movendi sunt et Terra \nDum veneris \nJudicare Saeculum per ignem \n - Libera me Domina"
+        "Tremens factum sum Ego et timeo \nDum discussio vener it \nAtque ventura ira \n - Libera me Domina"
+        "Reqiuem Aeternam dona eis Domine \n - Libera me Domine"
 
         #Warhammer chants
         "Agitatis Ultramarini, \nDominitis Ultramarini. \n - Ultramarine chant, Warhammer 40,000: Chaos Gate"
