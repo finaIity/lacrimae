@@ -2,6 +2,7 @@ if [[ -o interactive ]] && [[ -o login || -n "${LACRIMAE}" ]]; then
     _cl_lacrimae=(
         #Templar chants
         "Ad te clamamus, exsules, filii Hevae.\n - Salve Regina"
+        "Surrext Christus,et illuxit populo suo, \nquem redemit Sanguine Suo \n - Crucem sanctam subiit"
 
         #Byzantine chants
         "Pantas Imas, ekatharanta\n - Defte Lai"
