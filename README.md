@@ -28,4 +28,6 @@ plugins=([plugins...] hacker-quotes)
 ```
 3. Restart zsh and enjoy !
 
+Now on [awesome](https://github.com/unixorn/awesome-zsh-plugins) !
+
 PS : make sure you pull this plugin here and there, as I am still updating it regularly.
