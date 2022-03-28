@@ -16,7 +16,7 @@ Chants are classified by
 
 I update the plugin by a single criteria : Do I get goosebumps when I hear the line ?
 
-Now available in [![Awesome zsh plugins](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/unixorn/awesome-zsh-plugins)
+More cool plugins available in [![Awesome zsh plugins](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/unixorn/awesome-zsh-plugins)
 
 # Installing guide
 
