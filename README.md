@@ -26,7 +26,7 @@ git clone https://github.com/caIamity/lacrimae.git ~/.oh-my-zsh/custom/plugins/l
 ```
 2. Add the plugin to `~/.zshrc`:
 ```
-plugins=([plugins...] hacker-quotes)
+plugins=([plugins...] lacrimae)
 ```
 3. Restart zsh and enjoy !
 
