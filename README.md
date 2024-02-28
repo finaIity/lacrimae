@@ -20,7 +20,7 @@ More cool plugins available in [![Awesome zsh plugins](https://cdn.rawgit.com/si
 
 # Installing guide
 
-1. Clone this repo in in `oh-my-zsh's` plugins directory:
+1. Clone this repo in `oh-my-zsh's` plugins directory:
 ```
 git clone https://github.com/caIamity/lacrimae.git ~/.oh-my-zsh/custom/plugins/lacrimae
 ```
